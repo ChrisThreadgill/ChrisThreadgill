@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisThreadgill
+- 👋 Welcome! I’m @ChrisThreadgill
 - 👀 I’m interested in learning as much as I can to jump start my career in app development. 
 - 🌱 I’m currently enrolled in the App Academy Full Stack Development program.
 - 💞️ I’m looking to collaborate on web based applications focused around supporting small busisnesses. 

@@ -1,7 +1,6 @@
-- [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true)](https://github.com/ChrisThreadgill/github-readme-stats)
-![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true)
+- [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ChrisThreadgill/github-readme-stats)
 
-- 
+
 - 
 - 
 - 👋 Welcome! I’m @ChrisThreadgill

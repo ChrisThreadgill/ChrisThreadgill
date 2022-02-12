@@ -1,4 +1,5 @@
 - [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill)](https://github.com/ChrisThreadgill/github-readme-stats)
+![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true)
 
 - 
 - 

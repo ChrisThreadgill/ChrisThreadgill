@@ -1,3 +1,8 @@
+- [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill)](https://github.com/ChrisThreadgill/github-readme-stats)
+
+- 
+- 
+- 
 - 👋 Welcome! I’m @ChrisThreadgill
 - 👀 I’m interested in learning as much as I can to jump start my career in app development. 
 - 🌱 I’m currently enrolled in the App Academy Full Stack Development program.

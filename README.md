@@ -1,13 +1,12 @@
-- [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)
+[![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)
+Welcome! I’m Chris Threadgill
 
+Currently enrolled in the App Academy Full Stack Development program.
+Looking to collaborate on web based applications focused around supporting small busisnesses. 
 
-- 
-- 
-- 👋 Welcome! I’m @ChrisThreadgill
-- 👀 I’m interested in learning as much as I can to jump start my career in app development. 
-- 🌱 I’m currently enrolled in the App Academy Full Stack Development program.
-- 💞️ I’m looking to collaborate on web based applications focused around supporting small busisnesses. 
-- 📫 Email - christopher.threadgill.code@gmail.com  Discord Chris Threadgill#3534 
+Email - christopher.threadgill.code@gmail.com  
+Discord Chris Threadgill#3534 
+
 
 <!---
 ChrisThreadgill/ChrisThreadgill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

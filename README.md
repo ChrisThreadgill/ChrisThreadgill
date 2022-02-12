@@ -2,6 +2,7 @@
 Welcome! I’m Chris Threadgill
 
 Currently enrolled in the App Academy Full Stack Development program.
+
 Looking to collaborate on web based applications focused around supporting small busisnesses. 
 
 Email - christopher.threadgill.code@gmail.com  

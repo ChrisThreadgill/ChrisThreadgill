@@ -1,4 +1,4 @@
-- [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=merko)](https://github.com/ChrisThreadgill/github-readme-stats)
+- [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)
 
 
 - 

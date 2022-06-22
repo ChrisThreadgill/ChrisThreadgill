@@ -1,5 +1,3 @@
-[![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)
-
 Welcome! I’m Chris Threadgill
 
 ## My languages and tools
@@ -30,6 +28,9 @@ Welcome! I’m Chris Threadgill
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Activity
+[![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)
 
 
 Looking to collaborate on web based applications focused around supporting small busisnesses. 

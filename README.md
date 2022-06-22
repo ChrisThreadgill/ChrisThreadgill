@@ -41,8 +41,9 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # Contact
+LinkedIn - [Chris Threadgill](www.linkedin.com/in/chris-threadgill) <br />
 Email - christopher.threadgill.code@gmail.com  
-Discord Chris Threadgill#3534 
+Discord - Chris Threadgill#3534 
 
 ## Activity
 [![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)

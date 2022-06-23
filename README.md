@@ -1,15 +1,14 @@
 # Welcome, I’m Chris Threadgill
 - 10 Year mechanic turned Software Engineer
 
-# Check out some projects I've done!
+# Projects!
+
+- [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics) - Multi Tier Employee Management/Client scheduling application
+![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)
 
 - [Komication](https://github.com/arasargsyan0622/Komication) - Pixel Perfect Discord Clone
 <!-- ![Komication-Preview](https://user-images.githubusercontent.com/96981717/175123597-46933f33-7f7d-473c-953c-9ff3e64b6ccc.JPG) -->
 ![Komication-Preview](https://user-images.githubusercontent.com/96981717/175194301-a3970a37-2e41-4ba2-8d3d-38997fa97439.JPG)
-
-
-- [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics) - Multi Tier Employee Management/Client scheduling application
-![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)
 
 
 

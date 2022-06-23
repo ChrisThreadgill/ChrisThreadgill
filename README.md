@@ -1,7 +1,7 @@
 # Welcome, I’m Chris Threadgill
-- 10 Year mechanic turned Software Engineer
+Thanks for stopping by
 
-# Projects!
+# Projects
 
 - [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics) - Multi Tier Employee Management/Client scheduling application
 ![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)

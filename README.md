@@ -2,8 +2,8 @@
 Thanks for stopping by
 
 # Projects
-
-- [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics){target="_blank"}
+<a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a>
+<!-- - [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics){target="_blank"} -->
  - Multi Tier Employee Management/Client scheduling application
 ![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)
 

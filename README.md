@@ -18,7 +18,7 @@ Thanks for stopping by
 
 - [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics) - Multi Tier Employee Management/Client scheduling application
  <!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
-![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)
+<!-- ![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG) -->
 
 
 ## My languages and tools

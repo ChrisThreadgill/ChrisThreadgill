@@ -5,6 +5,8 @@ Thanks for stopping by
 
 <!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
 - [BoatBnB](https://github.com/ChrisThreadgill/BoatBNB) - Pixel Perfect Boatsetter Clone
+<!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
+<!-- ![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG) -->
 ![boat__bnb__portfolio__resize](https://user-images.githubusercontent.com/96981717/182683801-0de8b7ab-3781-4591-a2d4-e6ae6b29c33f.gif)
  <!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
 <!-- ![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG) -->

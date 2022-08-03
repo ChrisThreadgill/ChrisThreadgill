@@ -2,15 +2,21 @@
 Thanks for stopping by
 
 # Projects
+
 <!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
-- [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics) - Multi Tier Employee Management/Client scheduling application
+- [BoatBnB](https://github.com/ChrisThreadgill/BoatBNB) - Pixel Perfect Boatsetter Clone
+![boat__bnb__portfolio__resize](https://user-images.githubusercontent.com/96981717/182683801-0de8b7ab-3781-4591-a2d4-e6ae6b29c33f.gif)
  <!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
-![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)
+<!-- ![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG) -->
 
 - [Komication](https://github.com/arasargsyan0622/Komication) - Pixel Perfect Discord Clone
 <!-- ![Komication-Preview](https://user-images.githubusercontent.com/96981717/175123597-46933f33-7f7d-473c-953c-9ff3e64b6ccc.JPG) -->
-![Komication-Preview](https://user-images.githubusercontent.com/96981717/175194301-a3970a37-2e41-4ba2-8d3d-38997fa97439.JPG)
+<!-- ![Komication-Preview](https://user-images.githubusercontent.com/96981717/175194301-a3970a37-2e41-4ba2-8d3d-38997fa97439.JPG) -->
+![komication__portfolio](https://user-images.githubusercontent.com/96981717/182683381-1cd16823-191d-4b69-b90c-82b3f69589c4.gif)
 
+- [NinaTrill Esthetics](https://github.com/ChrisThreadgill/NinaTrillEsthetics) - Multi Tier Employee Management/Client scheduling application
+ <!-- <a href="https://github.com/ChrisThreadgill/NinaTrillEsthetics" target="_blank">Test</a> -->
+![employee__portal](https://user-images.githubusercontent.com/96981717/175124866-29be3235-a8bb-4b84-bb31-f7ef49c25048.JPG)
 
 
 ## My languages and tools

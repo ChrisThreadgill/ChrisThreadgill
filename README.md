@@ -54,9 +54,6 @@ LinkedIn - [Chris Threadgill](https://www.linkedin.com/in/chris-threadgill) <br 
 Email - christopher.threadgill.code@gmail.com  
 Discord - Chris Threadgill#3534 
 
-## Activity
-[![ChrisThreadgill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisThreadgill&count_private=true&show_icons=true&theme=radical)](https://github.com/ChrisThreadgill/github-readme-stats)
-
 
 
 Looking to collaborate with developers on any and all applications focused around supporting small busisnesses. 
